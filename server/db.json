@@ -1,0 +1,59 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "title": "Leo",
+      "actor": "Vijay"
+    },
+    {
+      "id": 2,
+      "title": "Jailer",
+      "actor": "Rajini"
+    },
+    {
+      "id": 4,
+      "title": "Remo",
+      "actor": "Sivakarthikeyan"
+    },
+    {
+      "id": 5,
+      "title": "Kaithi",
+      "actor": "Karthi"
+    },
+    {
+      "id": 6,
+      "title": "Maanadu",
+      "actor": "STR"
+    },
+    {
+      "id": 7,
+      "title": "Valimai",
+      "actor": "AK"
+    },
+    {
+      "title": "Singam",
+      "actor": "Surya",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "title": "KGF",
+      "actor": "Yash"
+    },
+    {
+      "id": 10,
+      "title": "Vikram",
+      "actor": "Kamal"
+    },
+    {
+      "id": 11,
+      "title": "DD Returns",
+      "actor": "santhanam"
+    },
+    {
+      "id": 12,
+      "title": "Jigarthanda",
+      "actor": "Lawrence"
+    }
+  ]
+}
